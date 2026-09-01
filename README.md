@@ -1,7 +1,7 @@
 # Hi, I'm Marcos, a QA Analyst transitioning to Back-End Development 👋
 
 * 🏦 Currently working as a **QA Trainee at Autbank**, working with **Java and SQL** in banking software, mainly maintaining Java files and SQL queries.
-* 🎓 Studying **Systems Analysis and Development (ADS)** at **Fatec Mogi das Cruzes**, with expected graduation in **2026**.
+* 🎓 Studying **Systems Analysis and Development (ADS)** at **Fatec Mogi das Cruzes**, with expected graduation in **2027**.
 * 💻 Focused on **Back-End Development with Java and Spring Boot**, building a strong foundation in programming, databases, APIs, and software architecture.
 * 🎯 My goal is to become a **Back-End Developer**, using my QA experience to build more reliable, maintainable, and well-tested software.
 
